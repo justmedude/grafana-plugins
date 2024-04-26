@@ -1,4 +1,4 @@
-module github.com/yesoreyeram/grafana-plugins/lib/go/transformations
+module github.com/justmedude/grafana-plugins/lib/go/transformations
 
 go 1.21
 
